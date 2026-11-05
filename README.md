@@ -29,7 +29,7 @@
 
 <div align="center">
 
-  <table>
+  <table align="center" style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
         $$\text{\color{#943442}{mars ₒᵤ kumo}}$$ ⋆  8𝖳𝖤𝖤𝖭 、 PH/ENG ⋆₊ <br>
